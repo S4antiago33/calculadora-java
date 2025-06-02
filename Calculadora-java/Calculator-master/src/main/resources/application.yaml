@@ -1,0 +1,15 @@
+themes:
+  - name: Light
+    applicationBackground: f0f3f9
+    textColor: f8f8f8
+    operatorBackground: f7f9fc
+    numbersBackground: ffffff
+    btnEqualTextColor: ffffff
+    btnEqualBackground: 0067c0b
+  - name: Dark
+    applicationBackground: 000000
+    textColor: ffffff
+    operatorBackground: 2d333d
+    numbersBackground: 363c47
+    btnEqualTextColor: ffffff
+    btnEqualBackground: 4cc2ff
